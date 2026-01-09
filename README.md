@@ -20,7 +20,7 @@ I am a Software Engineer transitioning from the **Audio Tech & Embedded Systems*
 
 ### 🛠️ Technical Stack & Skills
 
-- **Languages:** `C`, `C++`, `JavaScript (ES6)`,`MySQL` , `Python` (In Progress)
+- **Languages:** `C`, `C++`, `JavaScript`,`MySQL` , `Python` (In Progress)
 - **Systems & Infrastructure:** `Docker`, `Linux/Unix Administration`, `Computer Networking`, `Multi-threading`
 
 ---
