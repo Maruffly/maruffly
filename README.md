@@ -1,7 +1,7 @@
-# Hi, I'm JB 👋
-### Software Engineer @ 42 Paris
+# Hi, I'm JB
+### Software Engineering student @ 42 Paris
 
-I am a Software Engineer transitioning from the **Audio Tech & Embedded Systems** industry to **Cybersecurity** and **Data Science**. My experience at **Norand** (high-end boutique synthesizers) shaped my technical rigor and my passion for understanding how hardware and software converge.
+I am currently transitioning from the **Audio Tech & Embedded Systems** industry to **Cybersecurity** and **Data Science**. My experience at **Norand** (high-end boutique synthesizers) shaped my technical rigor and my passion for understanding how hardware and software converge.
 
 - 🎯 **Currently:** Specializing in **Cybersecurity** and **Python for Data Science**.
 - 🛠️ **Excellence:** Most 42 projects validated with maximum bonus (**125/100**).
@@ -39,7 +39,7 @@ I am a Software Engineer transitioning from the **Audio Tech & Embedded Systems*
 
 ### 📫 Connect with me
 
-- **LinkedIn:** [https://www.linkedin.com/in/jean-baptiste-maruffy]
+- **LinkedIn:** https://www.linkedin.com/in/jean-baptiste-maruffy
 
 ---
 
