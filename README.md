@@ -1,5 +1,5 @@
 # Hi, I'm JB 👋
-### Software Engineer @ 42 Paris | Level 11.63 | Transcended
+### Software Engineer @ 42 Paris
 
 I am a Software Engineer transitioning from the **Audio Tech & Embedded Systems** industry to **Cybersecurity** and **Data Science**. My experience at **Norand** (high-end boutique synthesizers) shaped my technical rigor and my passion for understanding how hardware and software converge.
 
