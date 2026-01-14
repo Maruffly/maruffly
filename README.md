@@ -31,7 +31,6 @@ I am currently transitioning from the **Audio Tech & Embedded Systems** industry
 | :--- | :--- | :--- |
 | **[Webserv](https://github.com/Maruffly/webserv)** | HTTP/1.1 Server built from scratch (non-blocking I/O). | `C++ 98` |
 | **[Inception](https://github.com/Maruffly/Inception)** | Full system orchestration with Docker Compose & Nginx. | `Docker`, `System Admin` |
-``| **[ft_transcendence](https://github.com/Maruffly/ft_Transcendence)** | Final core project: Real-time SPA web application. | `JS`, `PostgreSQL`, `Docker` |``
 | **[Minishell](https://github.com/Maruffly/minishell)** | Unix command-line interpreter with pipes & redirections. | `C`, `Unix API` |
 | **[Philosophers](https://github.com/Maruffly/philosopher)** | Solving concurrency & synchronization (Threads/Mutex). | `C`, `Multi-threading` |
 
