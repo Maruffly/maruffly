@@ -9,7 +9,7 @@ I am currently transitioning from the **Audio Tech & Embedded Systems** industry
 
 ---
 
-### 🛡️ Featured: Defense Hackathon (French Ministry of Defense)
+### 🛡️ (WIP) Featured: Defense Hackathon (French Ministry of Defense)
 
 **Challenge:** Develop a smart firewall log filtering & automated response solution.
 **Role:** Developed the data processing & detection engine.
@@ -31,6 +31,7 @@ I am currently transitioning from the **Audio Tech & Embedded Systems** industry
 | :--- | :--- | :--- |
 | **[Webserv](https://github.com/Maruffly/webserv)** | HTTP/1.1 Server built from scratch (non-blocking I/O). | `C++ 98` |
 | **[Inception](https://github.com/Maruffly/Inception)** | Full system orchestration with Docker Compose & Nginx. | `Docker`, `System Admin` |
+| **[ft_transcendence]* WIP * | Full system orchestration with Docker Compose & Nginx. | `Docker`, `System Admin` |
 | **[Minishell](https://github.com/Maruffly/minishell)** | Unix command-line interpreter with pipes & redirections. | `C`, `Unix API` |
 | **[Philosophers](https://github.com/Maruffly/philosopher)** | Solving concurrency & synchronization (Threads/Mutex). | `C`, `Multi-threading` |
 
